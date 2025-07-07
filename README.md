@@ -1,1 +1,1 @@
-# gh-deployment-workflow
+# github action static site deployment
